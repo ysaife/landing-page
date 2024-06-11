@@ -1,0 +1,14 @@
+body{
+    display: flex;
+    flex-direction: column;
+}
+.header{
+    background-color: #1f2937;
+    color: #e5e7eb;
+    display: flex;
+    justify-content: space-between;
+}
+
+a{
+    text-decoration: none;
+}
